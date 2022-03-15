@@ -5,16 +5,16 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2022-02-24T00:48:15.198Z",
-    "end": "2022-02-24T00:48:15.908Z",
-    "duration": 710
+    "start": "2022-03-15T18:45:08.808Z",
+    "end": "2022-03-15T18:45:09.471Z",
+    "duration": 663
   },
   "tests": [
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -23,7 +23,7 @@
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -90,7 +90,7 @@
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
       "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
